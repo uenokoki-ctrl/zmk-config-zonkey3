@@ -154,7 +154,7 @@
             sensor-bindings = <&scroll_up_down>;
         };
 
-        SCROLL {
+        layer_5 {
             // -----------------------------------------------------------------------------------------
             // |      |     |     |     |     |                     |     |     |     |     |      |
             // |      |     |     |     |     |     |           |    |     |     |     |     |      |
@@ -171,7 +171,7 @@
             sensor-bindings = <&scroll_up_down>;
         };
 
-        MOUSE {
+        layer_6 {
             bindings = <
 &trans  &trans  &trans  &trans  &trans                    &trans  &kp PAGE_UP    &kp HOME  &trans    &trans
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &mkp MB1       &mkp MB3  &mkp MB2  &trans
