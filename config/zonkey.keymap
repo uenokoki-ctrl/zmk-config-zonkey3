@@ -79,7 +79,7 @@
             bindings = <
 &kp CAPSLOCK    &kp GRAVE     &trans        &trans            &trans                                          &trans         &trans         &kp MINUS         &kp EQUAL          &kp DEL
 &kp TAB         &trans        &trans        &trans            &trans       &kp PRINTSCREEN       &kp JP_EISU  &trans         &trans         &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH
-&kp LEFT_SHIFT  &trans        &trans        &trans            &trans       &trans                &trans       &kp JP_KANA    &kp SEMICOLON  &kp SQT           &kp RETURN         &kp RET
+&kp LEFT_SHIFT  &trans        &trans        &trans            &trans       &mkp MB1              &trans       &kp JP_KANA    &kp SEMICOLON  &kp SQT           &kp RETURN         &kp RET
 &mt LCTL ESC    &kp LEFT_WIN  &kp LEFT_ALT  &lt 3 INT_HENKAN  &lt 2 SPACE  &lt 0 INT_MUHENKAN                 &kp BACKSPACE  &kp ENTER                                                          &kp DEL
             >;
 
